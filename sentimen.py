@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
 
-st.title('Prediksi Sentiment')
+st.title('Klasifikasi Sentiment')
 st.subheader('Implementasi Sentiment Analysis Berdasarkan Tweets Masyarakat Terhadap Kinerja Presiden dalam Aspek Penanganan Covid-19')
 st.text('Algoritma SVM OneVSRest')
 
